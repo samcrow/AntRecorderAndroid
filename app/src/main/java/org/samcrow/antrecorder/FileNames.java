@@ -13,7 +13,7 @@ public final class FileNames {
 	/**
 	 * The prefix for file names
 	 */
-	private static final String FILE_PREFIX = "color_events_";
+	private static final String FILE_PREFIX = "ant_events_";
 	/**
 	 * The suffix for file names
 	 */
