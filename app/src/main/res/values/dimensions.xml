@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="large_text_height">40sp</dimen>
+    <dimen name="large_text_padding">30dp</dimen>
+    <dimen name="selection_margin">10dp</dimen>
+
+    <dimen name="list_item_margin">5dp</dimen>
+    <dimen name="list_item_padding">5dp</dimen>
+</resources>
